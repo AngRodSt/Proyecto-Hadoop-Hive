@@ -1,0 +1,26 @@
+id_venta,fecha,cliente,ciudad,producto,categoria,cantidad,precio
+1,2025-01-01,Carlos,Santo Domingo,Laptop,Electronica,1,800
+2,2025-01-02,Ana,Santiago,Mouse,Electronica,2,20
+3,2025-01-02,Pedro,Santo Domingo,Teclado,Electronica,1,35
+4,2025-01-03,Maria,La Vega,Silla,Hogar,1,120
+5,2025-01-03,Juan,Santiago,Monitor,Electronica,1,300
+6,2025-01-04,Laura,Santo Domingo,Mesa,Hogar,1,200
+7,2025-01-04,Jose,Santiago,Mouse,Electronica,3,20
+8,2025-01-05,Andrea,La Vega,Audifonos,Electronica,1,60
+9,2025-01-05,Luis,Santo Domingo,Laptop,Electronica,1,820
+10,2025-01-06,Paola,Santiago,Silla,Hogar,2,120
+11,2025-01-06,Ramon,Santo Domingo,Teclado,Electronica,2,35
+12,2025-01-07,Sofia,La Vega,Mesa,Hogar,1,210
+13,2025-01-07,Daniel,Santiago,Mouse,Electronica,1,18
+14,2025-01-08,Lucia,Santo Domingo,Monitor,Electronica,1,310
+15,2025-01-08,Roberto,La Vega,Silla,Hogar,1,115
+16,2025-01-09,Elena,Santiago,Audifonos,Electronica,2,65
+17,2025-01-09,Victor,Santo Domingo,Laptop,Electronica,1,790
+18,2025-01-10,Natalia,Santiago,Mesa,Hogar,1,205
+19,2025-01-10,Hector,La Vega,Mouse,Electronica,4,19
+20,2025-01-11,Patricia,Santo Domingo,Teclado,Electronica,1,34
+21,2025-01-11,Oscar,Santiago,Silla,Hogar,1,125
+22,2025-01-12,Clara,La Vega,Monitor,Electronica,1,295
+23,2025-01-12,Julio,Santo Domingo,Audifonos,Electronica,1,70
+24,2025-01-13,Marta,Santiago,Mouse,Electronica,2,21
+25,2025-01-13,Cesar,La Vega,Mesa,Hogar,1,215
